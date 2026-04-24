@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Dark Devil Logo" width="200"/>
+<img src="banner.png" alt="Dark Devil Logo" width="200"/>
 
 # ☠️ DARK DEVIL SCANNER ☠️
 ### Version 9.0.0 — Codename: PHANTOM STRIKE
